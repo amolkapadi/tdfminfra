@@ -1,0 +1,15 @@
+
+ @media only screen and (max-width: 768px) {
+    .ms-auto {
+        margin-left: auto!important;
+        background: black;
+        padding: 14px;
+    }
+   /***aboutpage**/
+   .main{
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+   }
+  }
